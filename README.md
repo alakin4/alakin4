@@ -21,7 +21,6 @@ I am an experienced advanced analytics (statistical modeling, simulation, mathem
 ## I am currently working on
 1. Scheduling software for drug production
 2. An analytics platform with several modules, e.g., Flight scheduling and Fleet assignment of eVTOLS, aircraft routing
-3. Contributing towards
 
 
 ## Skills
