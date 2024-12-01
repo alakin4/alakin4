@@ -33,8 +33,7 @@ I am an experienced advanced analytics (statistical modeling, simulation, mathem
 -->
 ### Get in Touch
 Feel free to reach out if you want to discuss statistical modeling, simulation, mathematical optimization, and machine learning, or opportunities to collaborate!
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alankinene/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/alankinene)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](alankinene.com) 
+[LinkedIn](https://www.linkedin.com/in/alankinene/) 
 
 
 
