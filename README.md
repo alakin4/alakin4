@@ -26,7 +26,10 @@ I am an experienced advanced analytics (statistical modeling, simulation, mathem
 ## Skills
 | 💻 **Software Development & Engineering** | 🧠 **Optimization Solvers** | 🌍 **Languages** |
 | --- | --- | --- |
-| 🗂️ Agile methodologies, 🐍 Python, 📊 R, 🐳 Docker, ☁️ AWS, 🗄️ SQL & NoSQL, ⚛️ React, 🌐 NodeJs, 🧑‍💻 Git, 🌟 GitHub | ⚙️ OR-Tools, 🧩 Gurobi, 📈 CPLEX, 🛠️ Xpress, 🔍 SCIP, ✨ Custom heuristics | 🇺🇸 English, 🇺🇬 Luganda, 🇸🇪 Swedish |
+| 🗂️ Agile methodologies, 🐍 Python, 📊 R, | ⚙️ OR-Tools, 🧩 Gurobi, 📈 CPLEX,| 🇺🇸 English, |
+| 🐳 Docker, ☁️ AWS, 🗄️ SQL & NoSQL, | 🛠️ Xpress, 🔍 SCIP, ✨ Custom heuristics | 🇺🇬 Luganda, |
+| ⚛️ React, 🌐 NodeJs, 🧑‍💻 Git, |                                               | 🇸🇪 Swedish|
+| 🌟 GitHub                   |                                               |           |
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alakin4&show_icons=true&theme=radical&count_private=true)
